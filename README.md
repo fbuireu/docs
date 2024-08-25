@@ -1,4 +1,10 @@
-# Astro Docs <picture><source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/astro-icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://astro.build/assets/press/astro-icon-dark.png"><img align="right" valign="center" height="79" width="63" src="https://astro.build/assets/press/astro-icon-dark.png" alt="Astro logo" /></picture>
+# Astro
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+
+  # Astro Docs <picture><source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/astro-icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://astro.build/assets/press/astro-icon-dark.png"><img align="right" valign="center" height="79" width="63" src="https://astro.build/assets/press/astro-icon-dark.png" alt="Astro logo" /></picture>
 
 
 To all who come to this happy place: welcome.
@@ -68,3 +74,5 @@ Check out the dedicated [i18n guide](https://contribute.docs.astro.build/guides/
 - [Participate in a discussion](https://github.com/withastro/docs/discussions)
 - [Join the #docs channel on Discord](https://discord.gg/cZDZU3hJHc)
 
+
+</details>
